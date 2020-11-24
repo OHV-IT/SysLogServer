@@ -1,0 +1,3 @@
+[submodule "python-cx_Oracle"]
+	path = python-cx_Oracle
+	url = https://github.com/oracle/python-cx_Oracle.git
