@@ -3,7 +3,6 @@
 ## Syslog Server in Python.
 ##
 
-LOG_FILE = 'youlogfile.log'
 HOST, PORT = "0.0.0.0", 514
 
 OracleUser = ''
