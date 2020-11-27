@@ -13,11 +13,8 @@ OracleServerSid = "localhost/orclpdb1"
 # NO USER SERVICEABLE PARTS BELOW HERE...
 #
 import sys
-from pyparsing import Word, alphas, Suppress, Combine, nums, string, Optional, Regex
-from time import strftime
 import cx_Oracle
 import config
-import logging
 import SocketServer
 import json
 
