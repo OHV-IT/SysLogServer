@@ -1,2 +1,1 @@
-git+https://github.com/pyparsing/pyparsing.git#egg=pyparsing
 git+https://github.com/oracle/python-cx_Oracle.git#egg=cx_Oracle
